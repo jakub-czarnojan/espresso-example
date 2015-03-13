@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Development\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c7e2580bb4cb56c7fe2ecffffc0af889ddf47dd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1-f2e208e4ce8e95a4794768f586254237954e8f56.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-8823c23552b9283e1b86c699fb89187a10dffb58.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\wearable-preview-support.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4f4678fce7b2869bee25328441563fc61037b6cc">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\wearable-preview-support-f0a3d64792dd2f0ea8b59560ac17cda69127391f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.1\b988c01468e3398d46678a2eb48aeb5bde271e9f\hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.1-3948b4bdb2a1677dd604936c68fc62ba6479921e.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\android_packages_apps_Calculator\GDK-ProgressBar\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="730725a1fa6cb07d6ac4ccdbfc203a4eecb607e8">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\classes-fab0b90cf4587463c5b0ac2470be8324345bebdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.1\8d47177aa4da0f259fc823a39736bad2f09993d5\hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.1-fc094030ec0dd18f2b292c3b21992f1011eafb0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\junit\junit-dep\4.10\64417b3bafdecd366afa514bd5beeae6c1f85ece\junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\junit-dep-4.10-788b4a56e959c589e3303d6229d35ee065a705db.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\internal_impl-21.0.3-1bb6610dd24526bb586282aa0b99164a60bd682e.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\classes-5dbee2310055e84e50fa329440a3702a8a8c5a72.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-8c553114315c2593a4a8cda105a3e62d83676527.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support.test\testing-support-lib\0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-72b6198adfc0b2ea23b8a710a8f47e52ed8c3e6c.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\android_packages_apps_Calculator\FloatingView\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="61b97916f72102dd59afc22c7a87363f03cfeb4b">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\classes-e46ba320728c0a81bf40c93e5cdb2c13438346ec.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-0c06cb658ac03cb446ea1bd6b58dfa019b7d44dc.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e2095347aa9c33370eb72fea3969c0a7254e168">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-2ac10e3267320fd2812786e1f20a708b87017cf7.jar" />
+    </item>
+    <item
+        jar="D:\Development\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\support-annotations-21.0.3-561cac407d6ff681a9c6ce58e8dcd5b37f841de5.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\gson-2.2.4-5c85cb9a9cfc95d4fbd51f8a3e68cda068d6906c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1-c0496ac9de05b1dcbdb859b149eda2e42a3571ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1-f09e9543ec6d65e3b3051ea6d9d814958964f817.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\gdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="14a02726c95b3ebaca1d456ff2a18bc6b96ea0bd">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\gdk-c4c2f09a08265dba57c6596652d8e5ec63670ab0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2-a77852277b3b74774a3966ed0bae6bc05df39ecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kain Reicz\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.1-42314013bc46c2c31b687aa5df3ec113c54dbd43.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\android_packages_apps_Calculator\ThemeEngine\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="55005f5e2699f2a07d8a919eec099f36f95ae35a">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\classes-158e8b087128a1d347950355899328bfa1a066e7.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\ejml-0.21.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b0ea552892ad6e68c1c7df5b8222661db8467ba">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\ejml-0.21-4ce02237f667ddd45ad193211a884350052ad076.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\slider.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ff47d1f2ad0fcb8466cf7f730b943b1a65d71c90">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\slider-360b52288ae28ccd3929ea11626da8a63f9e3fa6.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\libs\arity-2.1.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5fcb42171ddf897aa295ee5f50356abc2a688c8">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\debug\arity-2.1.6-75755925c814323161cabae9b377cea4a2a0fae5.jar" />
+    </item>
+    <item
+        jar="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-contrib\2.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e279073d73895166e9c7653a01f6e6f7c266bd2a">
+        <dex dex="D:\Development\workspace\android_packages_apps_Calculator\Calculator\build\intermediates\pre-dexed\androidTest\debug\classes-18f1b0106d2efc0a17be61e530ca907357b5cf9f.jar" />
+    </item>
+
+</items>
